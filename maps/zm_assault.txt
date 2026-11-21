@@ -1,0 +1,6 @@
+Map name: zm_assault.
+Version map: Counter Strike 1.6
+Category: Zombie
+
+Download from cs-site.ru (rus).
+In site cs-site.ru there is still more than 4000 maps.
